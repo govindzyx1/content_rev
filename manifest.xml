@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Response-Cache-1" version="SHA-512:7deaba5c8fed39ff15d3d57f971d41169b0fa65b3211340faccc9e82eaa408f3b69198bfa17a13621a0b758f219b1c279d58638084668a63754ad3005eaf71a2"/>
+        <VersionInfo resourceName="Response-Cache-2" version="SHA-512:342581d548acf3aadedc12fd24e340d0fb6e3306d94fbf68be1612aa868f91aad0e955a3002c741ec66e630d0f75155755017afb3cb3fab3b91fa2e0e59ed464"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="anotherEndPoint" version="SHA-512:d4e0db5910cbdf14f3a1ea1ceafb704d3bc5e2b6e7c7f5d09aa2b2691f745d5b0a9a3ee7f92ff56b88d02725ddec0b85039f7be743b51ddcd0aef7633765054a"/>
+        <VersionInfo resourceName="default" version="SHA-512:441cbbc34fd9cf79a4566aec24137a0e20a955b3c5cb83ed392203531867878af79844a7a0f7cf006a3912acbedebdf23e4610a2dc26f5a4ca5adfd01cbe30be"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:f232f9bfab1f992bef9a56049fa679e195da28acda91d035dc0f05d07f2442360706cde8c09284371def3169950dfb13d86fd0b207dbd7baf1e5b8ec4a9bf106"/>
+    </TargetEndpoints>
+</Manifest>
